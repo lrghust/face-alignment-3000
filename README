@@ -1,5 +1,6 @@
-This is an implementation of paper "Face Alignment at 3000 FPS via Regressing Local Binary Features".
+This is an implementation of paper "Face Alignment at 3000 FPS via Regressing Local Binary Features" with Python.
 
+300W dataset is used here for simplicity.
 
 If you don't have the 300w_cropped dataset, run
     ./setup.sh
